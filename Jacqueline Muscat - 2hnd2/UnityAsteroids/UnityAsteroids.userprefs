@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\gameover.js">
+    <Files>
+      <File FileName="Assets\Scripts\MenuController.js" Line="21" Column="33" />
+      <File FileName="Assets\Scripts\gameover.js" Line="15" Column="27" />
+      <File FileName="Assets\Scripts\AsteroidGenerator.js" Line="48" Column="28" />
+      <File FileName="Assets\Scripts\AsteroidController.js" Line="11" Column="44" />
+      <File FileName="Assets\Scripts\PlayerController.js" Line="100" Column="22" />
+      <File FileName="Assets\Scripts\BorderController.js" Line="9" Column="8" />
+      <File FileName="Assets\Scripts\LargeAsteroidController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LaserController.js" Line="29" Column="1" />
+      <File FileName="Assets\Scripts\GameMusic.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master\UnityAsteroids\Assets\LaserController.js" line="17" />
+      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master\UnityAsteroids\Assets\LaserController.js" line="30" />
+      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master\UnityAsteroids\Assets\LaserController.js" line="28" />
+      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master\UnityAsteroids\Assets\LaserController.js" line="25" />
+      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master\UnityAsteroids\Assets\LaserController.js" line="35" />
+      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master - Copy\UnityAsteroids\Assets\PlayerController.js" line="50" />
+      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master - Copy\UnityAsteroids\Assets\PlayerController.js" line="49" />
+      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master - Copy\UnityAsteroids\Assets\AsteroidGenerator.js" line="7" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

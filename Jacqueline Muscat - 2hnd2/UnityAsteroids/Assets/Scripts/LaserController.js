@@ -18,6 +18,7 @@ function OnBecameInvisible()
 	Destroy(this.gameObject);
 }
 
+
 function OnTriggerEnter(other:Collider)
 {
 	//is the other object an asteroid? 

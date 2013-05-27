@@ -24,7 +24,6 @@ static function Set () {
 	
 }
 
-
 static function EnableBorders(object:Transform)
 {
 

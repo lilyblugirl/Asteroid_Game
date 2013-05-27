@@ -22,6 +22,7 @@ function createasteroids(numberofasteroids:int)
 
 }
 
+
 function Start () {
 	
 	switch (Application.loadedLevelName.ToString())

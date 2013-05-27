@@ -1,12 +1,11 @@
 #pragma strict
 
-/*static var score:int=0;
+static var score:int=0;
 static var health:int=100;
 static var shotsHit:int=0;
 static var shotsFired:int=0;
 static var shotsMissed:int=0;
 static var playerName:String="";
-*/
 
 //this declares a materials array.
 var colours:Material[];

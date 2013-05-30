@@ -1,24 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AsteroidGenerator.js">
-    <Files>
-      <File FileName="Assets\Scripts\PlayerController.js" Line="3" Column="1" />
-      <File FileName="Assets\Scripts\LargeAsteroidController.js" Line="13" Column="4" />
-      <File FileName="Assets\Scripts\LaserController.js" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\AsteroidGenerator.js" Line="24" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master\UnityAsteroids\Assets\LaserController.js" line="17" />
-      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master\UnityAsteroids\Assets\LaserController.js" line="30" />
-      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master\UnityAsteroids\Assets\LaserController.js" line="28" />
-      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master\UnityAsteroids\Assets\LaserController.js" line="25" />
-      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master\UnityAsteroids\Assets\LaserController.js" line="35" />
-      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master - Copy\UnityAsteroids\Assets\PlayerController.js" line="50" />
-      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master - Copy\UnityAsteroids\Assets\PlayerController.js" line="49" />
-      <Breakpoint file="C:\Users\james\Desktop\AsteroidsGame-master - Copy\UnityAsteroids\Assets\AsteroidGenerator.js" line="7" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
